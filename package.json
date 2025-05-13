@@ -1,7 +1,7 @@
 {
   "name": "bip",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/projetoBIP",
+  "homepage": "https://diogo03filipe.github.io/projetoBIP",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
