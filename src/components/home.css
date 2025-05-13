@@ -1,6 +1,0 @@
-.img {
-  width: 350px !important; /* Set a fixed width */
-  height: 150px !important; /* Set a fixed height */
-  object-fit: cover !important; /* Maintain aspect ratio */
-  display: block; /* Ensure images are block elements */
-}
